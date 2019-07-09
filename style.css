@@ -1,0 +1,115 @@
+* {
+	
+	font-family:'Open Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+
+
+header {
+	background: url(fon.jpg) center center no-repeat;
+	background-size: cover;
+	padding-top:135px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size:60px;
+	text-align: center;
+	font-weight: 200px;
+}
+
+h3 {
+	font-size:18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300px;
+	font-style:Italic;
+	padding-top:40px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+p {
+	font-size:28px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	padding-top:15px;
+	padding-bottom: 90px;
+	
+}
+
+
+.subscribe {
+	width: 920px;
+	margin: 0 auto;
+	background: #1d0c0a;
+	padding:15px;
+	border-radius: 3px;
+}
+
+input {
+	width: 320px;
+	height: 45px;
+	margin-right: 10px;
+	border: none;
+	color: #000;
+	padding-left: 20px;
+}
+
+.submit {
+	width: 220px;
+	height: 45px;
+	background: #ae2c52;
+	margin-right:0;
+	padding: 0;
+	border: none;
+	font-weight: bold;
+	color: #fff;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.submit:hover {
+	background: #e08ba4;
+}
+
+main {
+	width: 910px;
+	margin: 0 auto;
+	padding-top: 110px;
+}
+
+main img {
+	float: left;
+}
+
+
+main h1 {
+	color:#404040;
+	font-size:48px;
+	margin-bottom: 30px;
+}
+
+
+	
+	
+}
+
+main .two {
+	padding-bottom: 0px;
+}
+
+main p {
+	color:#404040;
+	text-align: left;
+	font-size: 14px;
+	line-height: 24px;
+    margin-left: 160px;
+	padding-bottom: 50px;
+}
+
+footer {
+	padding-bottom: 48px;
+	padding-top: 30px;
+}
